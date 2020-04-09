@@ -1,4 +1,4 @@
-# Un site pouvant rendre visuel une BdD visuel ?
+# Un site pouvant rendre une BdD visuel ?
 
 ![image](https://user-images.githubusercontent.com/58218640/78707952-a2be3200-7911-11ea-8986-970ee45bcae2.png)
 
